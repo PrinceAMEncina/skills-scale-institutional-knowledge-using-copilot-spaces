@@ -31,13 +31,15 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
-- [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Sponsor / Stakeholder alignment (email or meeting with Project Sponsor)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Identify key roles (PM, PdM, QA Lead, Business Analyst, SMEs as needed)
 
 ## Decision Gate
 Move to planning when:
 - Success metrics are clear
-- Stakeholders agree on priority
+- Stakeholders and Project Sponsor agree on priority
 - Team availability is confirmed
+- Key roles are identified (PM, PdM, QA Lead, Business Analyst, necessary SMEs)

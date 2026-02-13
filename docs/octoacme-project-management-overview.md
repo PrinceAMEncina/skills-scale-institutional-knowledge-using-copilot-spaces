@@ -17,7 +17,11 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- Quality Assurance Lead: defines quality standards, oversees testing efforts, ensures deliverables meet acceptance criteria.
+- Business Analyst: gathers requirements, translates product vision into detailed specifications, bridges business and technical teams.
+- Project Sponsor: provides executive support, secures funding, aligns project with organizational strategy.
+- Change Manager: plans and communicates organizational changes, ensures smooth adoption.
+- Subject Matter Expert (SME): provides specialized domain or technical knowledge to guide decisions.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts

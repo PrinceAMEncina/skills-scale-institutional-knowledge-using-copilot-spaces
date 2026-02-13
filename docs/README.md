@@ -6,7 +6,7 @@ Welcome to OctoAcme's project management documentation! This guide serves as you
 
 OctoAcme's project management processes are designed to ensure consistent, efficient delivery of projects through clear structure, defined roles, iterative workflows, and strong communication. The project lifecycle is broken down into distinct phases: initiation, planning, execution, release, and retrospective. Each phase includes checklists and templates to standardize outputs, such as the Project One-pager, risk registers, release notes, and action item trackers. Deliverables at each stage—such as a completed one-pager during initiation or a prioritized backlog in planning—ensure team alignment and accountability before moving forward.
 
-The framework revolves around well-defined personas: Project Managers (PMs), Product Managers (PdMs), Developers, QA/Testers, and Stakeholders. The PM coordinates planning, risk management, schedule, and communication, while the PdM owns the product vision and value delivery. Developers implement features, maintain code quality, and surface risks; QA/Testers validate against defined acceptance criteria and drive quality standards. These roles are supported through explicit responsibility lists and typical communication cadences, enabling everyone to understand their contributions and expectations.
+The framework revolves around well-defined personas: Project Managers (PMs), Product Managers (PdMs), Developers, Quality Assurance Leads, Business Analysts, and other specialized roles including Project Sponsors, Change Managers, and Subject Matter Experts (SMEs). The PM coordinates planning, risk management, schedule, and communication, while the PdM owns the product vision and value delivery. Developers implement features, maintain code quality, and surface risks; Quality Assurance Leads validate against defined acceptance criteria and drive quality standards. Business Analysts bridge business needs with technical implementation, while Project Sponsors provide executive support and strategic alignment. These roles are supported through explicit responsibility lists and typical communication cadences, enabling everyone to understand their contributions and expectations.
 
 Team collaboration is supported by a deliberate communication strategy. Scheduled standups, weekly syncs, demo sessions, and retrospectives scaffold regular progress updates and risk escalations. Templates for weekly status, incident reporting, and action items ensure that information is consistent and actionable. The use of a single source of truth—such as a project README or project board—minimizes confusion and keeps all stakeholders informed. Escalation paths are documented, from team-level triage up to sponsor intervention, enhancing transparency and response time.
 
@@ -39,6 +39,12 @@ Explore our comprehensive project management process documentation:
 
 8. **[Roles and Personas](octoacme-roles-and-personas.md)**  
    Understand the various roles within our project teams, their responsibilities, and collaboration patterns.
+
+9. **[Role Onboarding Checklist](role-onboarding-checklist.md)**  
+   A comprehensive checklist to help new team members quickly onboard into their specific project roles.
+
+10. **[Change Management Template](change-management-template.md)**  
+    A template to plan, communicate, and track organizational or process changes throughout projects.
 
 ## Getting Started
 
